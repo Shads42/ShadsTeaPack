@@ -1,0 +1,35 @@
+{
+    "Name": "Shads Tea Pack",
+    "Author": "Shads42",
+    "Description": "Adds new teas and kombuchas to the game. Requires JA, PFM, and PPJA to work.",
+    "Version": "1.0.0",
+    "MinimumApiVersion": "3.8.0",
+    "UniqueID": "shads42.ShadsTeaPack",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "Dependencies": [
+        {
+            "UniqueID": "ppja.fruitsandveggies",
+            "IsRequired": true,
+        },
+        {
+            "UniqueID": "ppja.moretrees",
+            "IsRequired": true,
+        },
+        {
+            "UniqueID": "mizu.flowers",
+            "IsRequired": true,
+        },
+        {
+            "UniqueID": "paradigmnomad.morefood",
+            "IsRequired": true,
+        },
+        {
+            "UniqueID": "DIGUS.ProducerFrameworkMod",
+            "IsRequired": true,
+        },
+    ],
+    "UpdateKeys": ["Nexus:????"],
+}
