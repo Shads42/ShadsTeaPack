@@ -9,4 +9,5 @@ PPJA Artisan Valley (for glass jar machine)
 PPJA Fruits and Veggies (for certain crops) 
 Christmas Sweets for Peppermint recipie 
 
-
+# Credits
+Graphics currently recolors of various sprites from PPJA Artisan Valley, More Recipies, and Even More Recipies. I am looking to make unique graphics for this when I have the time
