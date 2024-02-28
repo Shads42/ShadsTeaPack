@@ -1,4 +1,4 @@
-# ShadsTeaPack
+# Shads Tea Pack
 Pack that adds more tea flavors and kombucha to Stardew Valley
 
 # Features: 
